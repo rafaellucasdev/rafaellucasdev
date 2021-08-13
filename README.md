@@ -1,7 +1,4 @@
 ## Olá! Eu sou Rafael Lucas
-- 🔭 Hoje estou trabalhando com Delphi e Javascript
-- 🌱 Estudando Delphi
-- 😄 Pronouns: ele/dele
  <div>
   <a href="https://rafaellucas.dev.br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellucasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
